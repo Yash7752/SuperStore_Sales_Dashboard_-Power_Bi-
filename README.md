@@ -2,6 +2,9 @@
 # Project Overview
 The SuperStore Sales Dashboard is a data visualization project designed to analyze and present key insights from a superstore’s sales data. Built using Power BI, this dashboard provides an interactive and comprehensive view of sales trends, customer demographics, product performance, and other critical metrics, enabling stakeholders to make data-driven decisions.
 
+![SuperStore Sales Dashboard](https://github.com/Yash7752/SuperStore_Sales_Dashboard_-Power_Bi-/raw/main/Dashboard/Screenshot.png)
+
+
 # Key Features
 - Sales Analysis: Detailed monthly breakdown of sales performance across different regions, categories, and customer segments.
 - Profit and Revenue Insights: Visualizes profitability, revenue growth, and areas needing improvement.
